@@ -1,2 +1,2 @@
-# Arduino
-Stuff that i made with Arduino
+# Arduino alarm
+Alarm composed by a buzzer, led and ultrasonic sensor.
