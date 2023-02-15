@@ -1,7 +1,7 @@
-int buzzer=9; //buzzer pin
-int led=8;    //led pin
-int trig=13;  //trigger pin
-int echo=12;  //echo pin
+#define buzzer 9 //buzzer pin
+#define led 8    //led pin
+#define trig 13  //trigger pin
+#define echo 12  //echo pin
 void setup() { 
     pinMode(trig, OUTPUT); 
     pinMode(echo, INPUT);
